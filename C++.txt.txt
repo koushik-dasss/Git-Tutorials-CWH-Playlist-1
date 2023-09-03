@@ -1,2 +1,4 @@
 This is version-5 of my C++ code
-C++ is the upgraded version of the programming language c
+C++ is the upgraded version of the programming language C
+
+C language's code is to be used in reference to it's future work.
