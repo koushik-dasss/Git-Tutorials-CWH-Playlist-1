@@ -1,3 +1,5 @@
 This is version-5 of Python software
 
 Python is an interpreted language .
+
+Python is a dynaic language.

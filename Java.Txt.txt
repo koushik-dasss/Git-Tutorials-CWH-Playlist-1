@@ -5,3 +5,7 @@ JAVA is a compiled as well an interpreted programming language.
 JDK- JAVA Development Kit
 JRE- JAVA Runtime Environment
 JAVA has Classes and Functions, along with packages.
+
+Classes have Pascal Naming Convention.
+Functions have camel Case Naming Convention.
+
