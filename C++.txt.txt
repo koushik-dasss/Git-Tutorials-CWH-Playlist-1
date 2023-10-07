@@ -4,3 +4,4 @@ C++ is the upgraded version of the programming language C
 C language's code is to be used in reference to it's future work.
 
 C++ is known as the best language for competitive programming.
+C++ has both oops as well as pops features.
