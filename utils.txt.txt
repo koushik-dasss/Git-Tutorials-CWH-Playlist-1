@@ -8,4 +8,5 @@ Video-7
 second session
 third session
 fourth pull session
-sixth diff session
+sixth diff session ( file specific)
+sixth diff sesssion secondary changes for more understanding 

@@ -7,3 +7,5 @@ Index file is the index of the software.
 Second session version-1
 third session 
 fourth session git pull
+sixth diff session ( file specific)
+sixth diff sesssion secondary changes for more understanding 
